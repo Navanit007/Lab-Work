@@ -1,8 +1,8 @@
     MMS Lab Works
-Name : Navanit Sharma
-Roll no. : 231519
-Email :navanit.231519@ncit.edu.np
-Title :Introduction to Multimedia System.
+##Name : Navanit Sharma
+##Roll no. : 231519
+##Email :navanit.231519@ncit.edu.np
+##Title :Introduction to Multimedia System.
 Lab Report: Introduction to Multimedia Systems
 1. Title
 Introduction to Multimedia Systems and Familiarization with GitHub & Discord
